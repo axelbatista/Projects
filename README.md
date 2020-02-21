@@ -1,2 +1,2 @@
 
-flocking behavior for more complex ai
+flocking behavior idea for more complex ai in the future
